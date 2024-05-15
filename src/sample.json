@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Krystal Hur",
+            "title": "Argentina to devalue peso by over 50% as part of emergency economic reforms - CNN",
+            "description": "Argentina will devalue the peso by more than 50% as part of emergency measures to help the nation’s struggling economy, the country’s Economy Minister Luis Caputo announced Tuesday.",
+            "url": "https://www.cnn.com/2023/12/12/economy/argentina-milei-peso-dollar/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1697748921.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T11:52:00Z",
+            "content": "Argentina will devalue the peso by more than 50% as part of emergency measures to help the nations struggling economy, the countrys EconomyMinister Luis Caputo announced Tuesday.\r\nThe stark move chan… [+3343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Jeffrey S. Solochek",
+            "title": "Sarasota school board calls on Bridget Ziegler to resign. She does not. - Tampa Bay Times",
+            "description": "The Moms for Liberty co-founder caught in a sex scandal with her husband said the action “does not have any teeth.”",
+            "url": "https://www.tampabay.com/news/education/2023/12/12/sarasota-school-board-calls-bridget-ziegler-resign-she-does-not/",
+            "urlToImage": "https://www.tampabay.com/resizer/FrfS6PXO1qz2U2INNZAWp9-Vp2c=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TIHNOA3NMVG67H7DUIUENSCLZY.jpg",
+            "publishedAt": "2023-12-13T11:45:18Z",
+            "content": "SARASOTA The Sarasota County School Board on Tuesday called on fellow board member Bridget Ziegler to resign, citing her role in a sex scandal with statewide implications and calling her continued pr… [+5637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Andre Braugher: Brooklyn Nine-Nine's Captain Raymond Holt dies aged 61 - BBC.com",
+            "description": "Braugher often portrayed a gruff policeman, but in roles both dramatic and comedic.",
+            "url": "https://www.bbc.com/news/world-us-canada-67700088",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3181/production/_132037621_gettyimages-1212039326.jpg",
+            "publishedAt": "2023-12-13T11:21:00Z",
+            "content": "Andre Braugher, the star of Brooklyn Nine-Nine and Homicide: Life on the Street has died aged 61 following a brief illness.\r\nBraugher often portrayed a police officer during his career, performing bo… [+7340 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Annie Grayer",
+            "title": "House set to vote on formalizing impeachment inquiry into President Joe Biden with floor vote - CNN",
+            "description": "House Republicans are expected to vote Wednesday on their resolution to formalize an impeachment inquiry into President Joe Biden as their investigation reaches a critical juncture and right-wing pressure grows.",
+            "url": "https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/mike-johnson-joe-biden.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T11:08:00Z",
+            "content": "House Republicans are expected to vote Wednesday on their resolution to formalize an impeachment inquiry into President Joe Biden as their investigation reaches a critical juncture and right-wing pre… [+6113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Marc Carig and Matt Slater",
+            "title": "Dodgers’ Shohei Ohtani contract seems to follow Chelsea’s Premier League blueprint - The Athletic",
+            "description": "The Premier League just changed its rules to close a salary cap loophole. But in MLB, deferrals have sounded no such alarms with luxury tax.",
+            "url": "https://theathletic.com/5133037/2023/12/12/dodgers-shohei-ohtani-chelsea-todd-boehly/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/05/08052701/Todd-Boehly-scaled-e1652002070671.jpg",
+            "publishedAt": "2023-12-13T10:39:50Z",
+            "content": "When the American businessman Todd Boehly assumed control of Chelsea last year, the billionaire investor quickly began exploiting what some within English football would consider to be a risky loopho… [+7466 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nidal Al-Mughrabi, Bassam Masoud",
+            "title": "Israel faces growing isolation, Biden criticism, as Gaza deaths mount - Reuters.com",
+            "description": "Israel faced growing diplomatic isolation in its war in Gaza on as the United Nations demanded an immediate humanitarian ceasefire and U.S. President Joe Biden said \"indiscriminate\" bombing of civilians was <a href=\"/world/middle-east/biden-israel-starting-lo…",
+            "url": "https://www.reuters.com/world/middle-east/un-demands-ceasefire-gaza-israel-us-show-increasing-divisions-2023-12-13/",
+            "urlToImage": "https://www.reuters.com/resizer/ak2Epsl-nV6NpmBGtqfPPm4q94E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3FGINPFOROEJJ3TNJEAYILF7I.jpg",
+            "publishedAt": "2023-12-13T10:00:24Z",
+            "content": "CAIRO/GAZA, Dec 13 (Reuters) - Israel faced growing diplomatic isolation in its war in Gaza on as the United Nations demanded an immediate humanitarian ceasefire and U.S. President Joe Biden said \"in… [+6435 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Niha Masih",
+            "title": "U.N. resolution on Gaza cease-fire: Which countries voted for and against it - The Washington Post",
+            "description": "The General Assembly’s non-binding resolution for a cease-fire in Gaza passed with 153 votes in favor. The U.S. and Israel were among 10 nations to vote against it.",
+            "url": "https://www.washingtonpost.com/world/2023/12/13/un-vote-gaza-ceasefire-countries-against/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-13-2023/t_df878dce5b6b43de8c0510ca8acbf890_name_UN.jpg&w=1440",
+            "publishedAt": "2023-12-13T09:59:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nThe U.N. General Assembly on Tuesday overwhelmingly voted in favor of a resolution demanding an immediate humanitarian cease-fire in G… [+5231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Rise; Nasdaq Hits 2023 Highs, Nvidia Reclaims Buy Point With Fed On Tap - Investor's Business Daily",
+            "description": "Tesla says two Model 3 variants will lose all their $7,500 tax credit on Jan. 1.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-shift-seen-tesla-model-3-variants-to-lose-7500-tax-credit/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-Federal-Reserve-fall-12-shutter.jpg",
+            "publishedAt": "2023-12-13T09:55:00Z",
+            "content": "Dow Jones futures edged higher early Wednesday, along with S&amp;P 500 futures and Nasdaq futures, with the Federal Reserve meeting decision in focus. Tesla was in focus with a flurry of headlines.\r\n… [+8913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Perseverance: Nasa's Mars rover celebrates 1,000 days of science - BBC.com",
+            "description": "Nasa's Perseverance rover has done everything asked of it since landing on the Red Planet in 2021.",
+            "url": "https://www.bbc.com/news/science-environment-67700437",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2AB8/production/_128463901_index.jpg",
+            "publishedAt": "2023-12-13T09:49:00Z",
+            "content": "Perseverance will soon head up on to the rim of Jezero Crater\r\nNasa says its Perseverance rover has essentially completed the job it was asked to do when it landed on Mars in February 2021.\r\nThe robo… [+4333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pff.com"
+            },
+            "author": "Nathan Jahnke",
+            "title": "Fantasy Football: Top waiver targets at each position to push your team into the fantasy playoffs | Fantasy Football News, Rankings and Projections - Pro Football Focus",
+            "description": "This week's waiver wire offers hidden gems at every position, ready to propel your squad from postseason pretenders to championship contenders.",
+            "url": "https://www.pff.com/news/fantasy-football-top-waiver-targets-at-each-position-to-push-your-team-into-the-fantasy-playoffs",
+            "urlToImage": "https://media.pff.com/2023/11/Brown-Noah-Alamy-scaled.jpg?w=956&h=538",
+            "publishedAt": "2023-12-13T09:29:48Z",
+            "content": "The fantasy football playoffs loom, and your fantasy roster needs a jolt.\r\nFear not, fantasy managers. This week's waiver wire offers hidden gems at every position, ready to propel your squad from po… [+4329 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kim Hjelmgaard",
+            "title": "'Stop the boats': Britain wants to send asylum seekers 4000 miles away to Rwanda - USA TODAY",
+            "description": "Britain has a problem with asylum seekers crossing the English Channel in small inflatable boats, dinghies and even kayaks. The government's proposed solution? Send them to Rwanda.",
+            "url": "https://www.usatoday.com/story/news/world/2023/12/12/britain-rwanda-asylum-seekers-parliament-vote/71850363007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/11/USAT/71876513007-afp-afp-343-k-4-rh.JPG?crop=5540,3118,x0,y269&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-13T08:24:17Z",
+            "content": "LONDON Britain has a problem with asylum seekers crossing the English Channel from France in small inflatable boats, dinghies and even kayaks. The government's proposed solution? Send them to Rwanda.… [+6989 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Stubbornly high rental costs lift US consumer inflation in November - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-unexpectedly-rise-november-2023-12-12/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-13T08:04:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ruxandra Iordache, Sam Meredith",
+            "title": "COP28 climate summit ends with deal to transition away from fossil fuels - CNBC",
+            "description": "The COP28 climate summit took place in Dubai against a backdrop of controversy, geopolitical conflicts and increasing extreme weather events.",
+            "url": "https://www.cnbc.com/2023/12/13/countries-agree-to-deal-at-cop28-climate-summit.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107342075-1701452590659-gettyimages-1815420439-AFP_346R8KB.jpeg?v=1701452669&w=1920&h=1080",
+            "publishedAt": "2023-12-13T07:32:49Z",
+            "content": "COP28 president Sultan Ahmed Al Jaber speaks during the Transforming Food Systems in the Face of Climate Change event on the sidelines of the COP28 climate summit at Dubai Expo on December 1, 2023.\r\n… [+6135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "MLB rumors: Yoshinobu Yamamoto suitors stack up; Seth Lugo signs with Royals; Cardinals eye extension for star - CBS Sports",
+            "description": "Here are your hot stove rumors for Tuesday, Dec. 12",
+            "url": "https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-suitors-stack-up-seth-lugo-signs-with-royals-cardinals-eye-extension-for-star/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/12/86dcf54c-f73b-4cd5-a596-9737b7b72f25/thumbnail/1200x675/a5a7271c678e211ebc6d320d9ecf34d1/lugo-getty.png",
+            "publishedAt": "2023-12-13T06:56:00Z",
+            "content": "As the dust continues to settle from a week that saw Juan Soto traded to the Yankees and Shohei Ohtani sign a monster -- perhaps an understatement -- free agent deal with the Dodgers, the MLB offseas… [+5599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "Hannah Knowles | KOMO News Reporter",
+            "title": "Canine respiratory disease affects holiday plans for pet owners in western Washington - KOMO News",
+            "description": "As the holiday season approaches, pet owners are now faced with a new dilemma: What to do with their beloved pets while traveling for the holidays?",
+            "url": "https://komonews.com/news/local/holiday-season-respiratory-deadly-disease-western-washington-thanksgiving-bookings-state-department-of-agriculture-wsda-canine-cirdc-spokane-island-snohomish-pierce-king-county-lethargy-coughing-discharge-symptoms",
+            "urlToImage": "https://komonews.com/resources/media/c730f822-5f34-44b4-9f88-397f35c2ba6c-large16x9_canine5.JPG",
+            "publishedAt": "2023-12-13T06:55:00Z",
+            "content": "SEATTLE, Wash. As the holiday season approaches, pet owners are now faced with a new dilemma: What to do with their beloved pets while traveling for the holidays?\r\nA new respiratory and potentially d… [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Bradner, Steve Contorno",
+            "title": "Takeaways from CNN’s Iowa town hall with Ron DeSantis - CNN",
+            "description": "Florida Gov. Ron DeSantis on Tuesday showed new urgency in taking on Donald Trump, attacking the former president at every turn at a CNN town hall in Iowa with the state’s caucuses less than five weeks away.",
+            "url": "https://www.cnn.com/2023/12/12/politics/takeaways-desantis-town-hall/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/wnl3929.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T05:12:00Z",
+            "content": "Florida Gov. Ron DeSantis on Tuesday showed new urgency in taking on Donald Trump, attacking the former president at every turn at a CNN town hall in Iowa with the states caucuses less than five week… [+10837 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, Natasha Bertrand",
+            "title": "Ukraine faces a daunting winter after Zelensky can’t convince Republicans to move quickly on new aid - CNN",
+            "description": "Standing alongside his Ukrainian counterpart at the White House a little more than a year ago, President Joe Biden vowed American support for Ukraine “as long as it takes.” It’s a commitment he’s long repeated in the 22 months since Russia’s unprovoked invasi…",
+            "url": "https://www.cnn.com/2023/12/13/politics/what-comes-next-for-ukraine/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231212170814-03-biden-zelensky-white-house-1212.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T05:00:00Z",
+            "content": "Standing alongside his Ukrainian counterpart at the White House a little more than a year ago, President Joe Biden vowed American support for Ukraine as long as it takes. Its a commitment hes long re… [+8689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "AJ McDougall",
+            "title": "Ann Coulter Slams Pro-Life Movement After Texas' Anti-Abortion Decision - The Daily Beast",
+            "description": "The conservative pundit is backing Kate Cox after the Texas Supreme Court ruled against her petition to get an abortion in the state this month.",
+            "url": "https://www.thedailybeast.com/ann-coulter-slams-pro-life-movement-after-texas-anti-abortion-decision",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3375,w_6000,x_0,y_92/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702427570/GettyImages-1142091449_mlgins",
+            "publishedAt": "2023-12-13T04:12:00Z",
+            "content": "Abortion rights activists just got a show of support from the unlikeliest of sources: Ann Coulters keyboard. \r\nThe conservative pundit took to X on Tuesday to come out in support of Kate Cox, the wom… [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Anthony Robledo",
+            "title": "Why gas prices going down as U.S. reaches lowest level in 2023 - USA TODAY",
+            "description": "The national average price for a gallon of gas is going down in the U.S. with Tuesday's national average at just $3.14, according to AAA.",
+            "url": "https://www.usatoday.com/story/money/economy/2023/12/12/why-are-gas-prices-going-down/71898654007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/13/USAT/71899390007-gas-prices.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-13T02:56:09Z",
+            "content": "The national average price for a gallon of gas are going down in the U.S. with Tuesday's national average just at $3.137, according to AAA.\r\nThe amount is 9 cents lower than last week's average makin… [+2640 chars]"
+        }
+    ]
+}
